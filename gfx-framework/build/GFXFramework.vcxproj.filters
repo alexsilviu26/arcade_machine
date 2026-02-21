@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\lab_m1\Tema1\Tema.cpp">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\lab_m1\Tema1\object2D.cpp">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\vertex_bone_data.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\lab_m1\Tema1\Tema.h">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\lab_m1\Tema1\object2D.h">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\lab_m1\Tema1\transform2D.h">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\lab_m1\lab_list.h">
+      <Filter>src\lab_m1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alexs\OneDrive\Documente\ACS\Anul3\EGC\gfx-framework\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{69CAD4BD-8914-378C-95D6-98163905B3A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{C8AC9670-DC34-30CC-AF68-AE2951BBA461}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{06F983E9-44D0-321B-81DE-BBBD6CCFA89C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{AF959479-A5A4-3424-A6C7-3DAB67E7299C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{4037600A-A276-32B6-A0C1-C30A245F32B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{450B09DB-B955-380C-B557-148A9095E17F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1">
+      <UniqueIdentifier>{B423E478-86B1-3581-9ACF-96CB9B1B5872}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\Tema1">
+      <UniqueIdentifier>{3BB048A5-A5E7-30D3-B6F8-EEC37F844C3E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{CBCC8DF8-BFC8-3794-83FF-C2CCA7E3B996}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
